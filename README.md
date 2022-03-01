@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-# 💻안녕하세요. 한승민입니다! <a href="https://github.com/zzozzo"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# 💻Hello, I'm minya <a href="https://github.com/zzozzo"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 
 - 📱 I am major in Convergence security engineering of Sungshin Univ. in South Korea   
