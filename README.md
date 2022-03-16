@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 📱 I am major in Convergence security engineering of Sungshin Univ. in South Korea   
 - 💡 I am currently learning AI, Data Science  
-
+- ✨ The reason why I study AI and Data Science is I can find out unknown features or insights throught analyzing data. And Futhermore I believe using these features and insights I can make better world by inventing useful tech.
 
 ### Contact
 
