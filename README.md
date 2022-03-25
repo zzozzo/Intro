@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 # 💻Hello, I'm minya <a href="https://github.com/zzozzo"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 
-- 📱 I major in Convergence security engineering of Sungshin Univ. in South Korea   
+- 📱 I major in Convergence security engineering    
 - 💡 I am currently learning AI, Data Science  
 - ✨ The reason why I study AI and Data Science is I can find out unknown features or insights throught analyzing data. Futhermore, I believe using these features and insights I can make better world by inventing useful tech.
 
