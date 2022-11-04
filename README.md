@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 - 📱 I major in Convergence security engineering    
-- 💡 I am data analyst of enterprise blockchain which services gigwoker application called Yogig!
+- 💡 I am data analyst of Enterprise Blockchain which services gigwoker application called Yogig!
 - ✨ The reason why I study AI and Data Science is I can find out unknown features or insights throught analyzing data. Futhermore, I believe using these features and insights I can make better world by inventing useful tech.
 
 ### Contact
